@@ -1,2 +1,3 @@
 # test2rm
-temp
+Python project for testing
+
