@@ -5,3 +5,6 @@ word2 = input("Enter the second word: ")
 
 print(word1.upper())
 print(word2.upper())
+
+print(word1.capitalize())
+print(word2.capitalize())
